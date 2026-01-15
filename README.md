@@ -17,7 +17,7 @@ L'objectif était de manipuler un dataset complexe, de le nettoyer et d'en tirer
 * **Volume :** Environ 50 000 lignes de données.
 * **Variables :** Prix, Distance du centre, Type de logement, Statut Superhost, Satisfaction client.
 
-> **💡 C'est quoi un "Superhost" ?**
+> ** C'est quoi un "Superhost" ?**
 > Un Superhost est un hôte expérimenté reconnu par Airbnb pour son hospitalité exceptionnelle. Pour obtenir ce badge, il faut avoir une note moyenne > 4.8/5, un taux de réponse élevé et très peu d'annulations. C'est un gage de qualité pour les voyageurs.
 
 ---
